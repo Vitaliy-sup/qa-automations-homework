@@ -17,7 +17,7 @@ public class MainClass {
             }
     else{
         System.out.println("False");
-        System.out.println("Something wrong num is not 14, need recheck");
+        System.out.println("Something wrong num is not 14");
         }
         }
 
